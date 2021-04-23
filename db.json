@@ -1,0 +1,55 @@
+{
+  "categorias": [
+    {
+      "especialidade": "teste",
+      "medico": "teste",
+      "particular": "01,20",
+      "simbiose": "02,23",
+      "bompastor": "20,00",
+      "atestado": "3,51",
+      "categoria": "Exames",
+      "hora": [
+        {
+          "valor": "2021-04-22T06:38"
+        },
+        {
+          "valor": "2021-04-22T06:40"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "agendamentos": [],
+  "promocoes": [],
+  "usuarios": [],
+  "arquivo": [
+    {
+      "CPF": "08337598689",
+      "Email": "saudeleidiane@gmail.com",
+      "Endereco": "Rua Antônio Ramos Lafetá, 370, Cidade Nova, São João do Pacuí ",
+      "Fone": "38999370853",
+      "NomeUsuario": "Leidiane Andrade Martins",
+      "dia": "22/03/2021",
+      "especialidade": "CLINICO GERAL ",
+      "hora": "11:00",
+      "categoria": "Exames",
+      "medico": "DR. JOSÉ HUMBERTO",
+      "preco": "PARTICULAR: R$200,00",
+      "id": 2
+    },
+    {
+      "CPF": "08337598689",
+      "Email": "saudeleidiane@gmail.com",
+      "Endereco": "Rua Antônio Ramos Lafetá, 370, Cidade Nova, São João do Pacuí ",
+      "Fone": "38999370853",
+      "NomeUsuario": "Leidiane Andrade Martins",
+      "dia": "22/03/2021",
+      "especialidade": "CLINICO GERAL ",
+      "hora": "11:00",
+      "categoria": "Cirurgia",
+      "medico": "DR. JOSÉ HUMBERTO",
+      "preco": "PARTICULAR: R$200,00",
+      "id": 7
+    }
+  ]
+}
